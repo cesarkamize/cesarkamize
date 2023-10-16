@@ -23,10 +23,10 @@ em poucos minutos.
 - [ansible ](https://github.com/cesarkamize/ansible-wordpress-mysql)
 
 Esse aqui têm o foco em subir uma maquina já configurada com docker para estudo.   
-- [Projeto 2](https://github.com/cesarkamize/vagrant-docker)
+- [vagrant-docker](https://github.com/cesarkamize/vagrant-docker)
 
 Esse têm arquivos de DNS já configurado para subir seu DNS-BIND 
-- [Projeto 2](https://github.com/cesarkamize/DNS-BIND)
+- [DNS-BIND](https://github.com/cesarkamize/DNS-BIND)
 
 Espero que algum desses possa te ajudar em algum do seu projeto
 
