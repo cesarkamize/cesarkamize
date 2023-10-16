@@ -1,7 +1,7 @@
 ``### ✨ Olá, Sou César !!! ✨
 
                         Bem-vindo ao meu GitHub !!! 
-Sou um Formado em Redes de computadores e apaixonado por tecnologias de automação
+Sou Formado em Redes de computadores e apaixonado por tecnologias de automação
 * Formado em Redes de computadores - Universidade Cruzeiro do Sul
 * Ansible:Sua Infraestrutura como Código - Alura
 * Git e Github: Compartilhando e colaborando em projetos - Alura
