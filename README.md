@@ -1,4 +1,4 @@
-# Olá , Sou o César !
+### ✨ Olá, Sou César !!! ✨
 
                         Bem-vindo ao meu GitHub !!! 
 Sou um Formado em Redes de computadores e apaixonado por tecnologias de automação
@@ -7,6 +7,13 @@ Sou um Formado em Redes de computadores e apaixonado por tecnologias de automaç
 * Git e Github: Compartilhando e colaborando em projetos
 * Kubernetes
 * Certificado: Oracle Cloud Infrastructure Foundations 2021 Certified Associate
+  
+
+
+
+<div style="display: inline">
+  <img align="center" alt="ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/85px-Ansible_logo.svg.png"/>
+  
 
 ## Projetos
 Tenho alguns projetos que podem ajudar você como:
@@ -22,6 +29,14 @@ Esse têm arquivos de DNS já configurado para subir seu DNS-BIND
 - [Projeto 2](https://github.com/cesarkamize/DNS-BIND)
 
 Espero que algum desses possa te ajudar em algum do seu projeto
+
+## Estatísticas do GitHub ⚡
+<div>
+  <a href="https://github.com/cesarkamize">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarkamize&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+</div>
 
 ## Contato
 
