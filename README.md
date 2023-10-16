@@ -12,9 +12,18 @@ Sou um Formado em Redes de computadores e apaixonado por tecnologias de automaç
 
 
 <div style="display: inline">
-  <img align="center" alt="ansible" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/85px-Ansible_logo.svg.png"/>
-  
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"/>
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
+   <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"/>
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"/
+</div><br/>
 
+<div style="display: inline">
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"/>
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"/>
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"/>
+  <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>
+</div><br/>
 ## Projetos
 Tenho alguns projetos que podem ajudar você como:
 
