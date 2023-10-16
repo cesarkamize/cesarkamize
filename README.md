@@ -1,4 +1,4 @@
-### ✨ Olá, Sou César !!! ✨
+``### ✨ Olá, Sou César !!! ✨
 
                         Bem-vindo ao meu GitHub !!! 
 Sou um Formado em Redes de computadores e apaixonado por tecnologias de automação
@@ -52,4 +52,4 @@ Espero que algum desses possa te ajudar em algum do seu projeto
 - Email: augustoramos00@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cesar5342/
 
-![Imagem](https://drive.google.com/file/d/1ujxBXpi-yVVJr1_i8aqoYkAGuPburaUp/view?usp=drive_link)
+![Imagem](https://avatars.githubusercontent.com/u/103154063?v=4)
