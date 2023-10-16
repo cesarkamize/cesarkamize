@@ -41,6 +41,6 @@ Espero que algum desses possa te ajudar em algum do seu projeto
 ## Contato
 
 - Email: augustoramos00@gmail.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/cesar5342/)
+- LinkedIn: (https://www.linkedin.com/in/cesar5342/)
 
 ![Imagem](https://media.licdn.com/dms/image/D4D03AQH_xeZK3qP9pw/profile-displayphoto-shrink_800_800/0/1663790324324?e=1703116800&v=beta&t=R5TTiGoVhZPysiHUVlmxZ-vWf8IBcUam5C6RtgfT7AI)
