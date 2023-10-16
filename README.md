@@ -3,7 +3,7 @@
                         Bem-vindo ao meu GitHub !!! 
 Sou Formado em Redes de computadores e apaixonado por tecnologias de automação
 * Formado em Redes de computadores - Universidade Cruzeiro do Sul
-* Ansible:Sua Infraestrutura como Código - Alura
+* Ansible: Sua Infraestrutura como Código - Alura
 * Git e Github: Compartilhando e colaborando em projetos - Alura
 * Kubernetes - Udemy
 * Certificado: Oracle Cloud Infrastructure Foundations 2021 Certified Associate
