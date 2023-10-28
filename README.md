@@ -7,6 +7,8 @@ Sou Formado em Redes de computadores e apaixonado por tecnologias de automação
 * Git e Github: Compartilhando e colaborando em projetos - Alura
 * Kubernetes - Udemy
 * Certificado: Oracle Cloud Infrastructure Foundations 2021 Certified Associate
+* Terraform: automatize a infraestrutura na nuvem
+* Jenkins e Docker: Pipeline de entrega continua
   
 
 
