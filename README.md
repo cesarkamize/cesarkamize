@@ -26,7 +26,7 @@ Sou Formado em Redes de computadores e apaixonado por tecnologias de automação
   <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"/>
   <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>
 </div><br/>
-``### Projetos
+              Projetos
 Tenho alguns projetos que podem ajudar você como:
 
 Esse aqui têm o foco em configurar sua máquina com ansible para ter um servidor com wordpress e mysql
@@ -49,7 +49,7 @@ Espero que algum desses possa te ajudar em algum do seu projeto
   </center>
   <center>  
 
-## Contato
+##         Contato
 
 - Email: augustoramos00@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cesar5342/
