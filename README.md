@@ -1,4 +1,4 @@
-``### ✨ Olá, Sou César !!! ✨
+### ✨ Olá, Sou César !!! ✨
 
                         Bem-vindo ao meu GitHub !!! 
 Sou Formado em Redes de computadores e apaixonado por tecnologias de automação
@@ -25,8 +25,10 @@ Sou Formado em Redes de computadores e apaixonado por tecnologias de automação
   <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"/>
   <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"/>
   <img align="center" alt="ansible" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>
+
 </div><br/>
-              Projetos
+
+## projetos
 Tenho alguns projetos que podem ajudar você como:
 
 Esse aqui têm o foco em configurar sua máquina com ansible para ter um servidor com wordpress e mysql
